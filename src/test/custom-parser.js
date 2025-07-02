@@ -296,7 +296,7 @@ function executeAllTestCases() {
     };
 
     const testCalculateEMITestCase = {
-        testCaseName: 'testCalculateBill Functionality Test',
+        testCaseName: 'testCalculateEMI Functionality Test',
         testCaseType: 'functional',
         testLogic: testCalculateEMI
     };
